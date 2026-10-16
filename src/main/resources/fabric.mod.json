@@ -3,9 +3,9 @@
 	"id": "sayu",
 	"version": "${version}",
 	"name": "Sayu",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Client-side Minecraft chat integration for a local LLM via @sayu.",
 	"authors": [
-		"Me!"
+		"AI_sahil"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -30,7 +30,7 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.19.5",
+		"fabricloader": ">=0.17.2",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
